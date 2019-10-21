@@ -13,7 +13,7 @@
 	},
 	"dependencies": {
 		"chart.js": "^2.8.0",
-		"lodash": "^4.17.11",
+		"lodash": "^4.17.13",
 		"sirv-cli": "^0.4.4"
 	},
 	"scripts": {
